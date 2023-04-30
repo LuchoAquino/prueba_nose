@@ -12,7 +12,7 @@ y = lambda x:(
 
 plt.title('Funcion Github')
 plt.ylabel('V0- Hice cambio desde otra pc q no es la miaa')
-plt.xlabel('V1')
+plt.xlabel('V1- No me gusta q lo hagas desde github hazlo desde la terminal')
 plt.xlim(0, 5)
 plt.plot(x, y(x), 'blue')
 #plt.plot(x, ejex, 'black')
